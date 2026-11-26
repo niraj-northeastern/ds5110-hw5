@@ -66,6 +66,6 @@ model sees the data.
 
 Claude (Anthropic) was used in a supporting role, as a coding assistant: helping draft and
 simplify the scripts in `src/` (validation rules, cleaning, missingness tests, the two
-custom imputers, the leakage evaluation), and the results tables and factual summaries in
-`reports/report.md`. The arguments in Sections 5 to 8 of the report are my own. I reviewed
-the code file by file and can explain every line.
+custom imputers, the leakage evaluation), and write grammatically and semantically correct
+summaries in `reports/report.md`. I reviewed the code file by file and can explain every
+line.
