@@ -1,0 +1,29 @@
+| column         |   "NA" |   "None" |   empty |   NaN with default load | meaning          |
+|:---------------|-------:|---------:|--------:|------------------------:|:-----------------|
+| Lot Frontage   |      0 |        0 |     490 |                     490 | empty = unknown  |
+| Alley          |   2732 |        0 |       0 |                    2732 | NA = none        |
+| Mas Vnr Type   |      0 |     1752 |      23 |                    1775 | None = no veneer |
+| Mas Vnr Area   |      0 |        0 |      23 |                      23 | empty = unknown  |
+| Bsmt Qual      |     79 |        0 |       1 |                      80 | NA = none        |
+| Bsmt Cond      |     79 |        0 |       1 |                      80 | NA = none        |
+| Bsmt Exposure  |     79 |        0 |       4 |                      83 | NA = none        |
+| BsmtFin Type 1 |     79 |        0 |       1 |                      80 | NA = none        |
+| BsmtFin SF 1   |      0 |        0 |       1 |                       1 | empty = unknown  |
+| BsmtFin Type 2 |     79 |        0 |       2 |                      81 | NA = none        |
+| BsmtFin SF 2   |      0 |        0 |       1 |                       1 | empty = unknown  |
+| Bsmt Unf SF    |      0 |        0 |       1 |                       1 | empty = unknown  |
+| Total Bsmt SF  |      0 |        0 |       1 |                       1 | empty = unknown  |
+| Electrical     |      0 |        0 |       1 |                       1 | empty = unknown  |
+| Bsmt Full Bath |      0 |        0 |       2 |                       2 | empty = unknown  |
+| Bsmt Half Bath |      0 |        0 |       2 |                       2 | empty = unknown  |
+| Fireplace Qu   |   1422 |        0 |       0 |                    1422 | NA = none        |
+| Garage Type    |    157 |        0 |       0 |                     157 | NA = none        |
+| Garage Yr Blt  |      0 |        0 |     159 |                     159 | empty = unknown  |
+| Garage Finish  |    157 |        0 |       2 |                     159 | NA = none        |
+| Garage Cars    |      0 |        0 |       1 |                       1 | empty = unknown  |
+| Garage Area    |      0 |        0 |       1 |                       1 | empty = unknown  |
+| Garage Qual    |    158 |        0 |       1 |                     159 | NA = none        |
+| Garage Cond    |    158 |        0 |       1 |                     159 | NA = none        |
+| Pool QC        |   2917 |        0 |       0 |                    2917 | NA = none        |
+| Fence          |   2358 |        0 |       0 |                    2358 | NA = none        |
+| Misc Feature   |   2824 |        0 |       0 |                    2824 | NA = none        |
